@@ -1,0 +1,11 @@
+Package: exNGS
+Type: Package
+Title: exNext-Generation Sequencing Utilities (internal use)
+Version: 1.01
+Date: 2016-03-29
+Author: Jean-Christophe AUDE
+Maintainer: Jean-Christophe AUDE <jean-christophe.aude@cea.fr>
+Description: This package contains various functions to deal with NGS data
+License: GNU AFFERO GENERAL PUBLIC LICENSE
+LazyLoad: yes
+Depends: R (>= 2.10.0), gplots, ggplot2, reshape2, splines, stats, utils
